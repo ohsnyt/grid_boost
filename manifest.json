@@ -6,6 +6,5 @@
   "config_flow": true,
   "dependencies": ["recorder", "mqtt"],
   "documentation": "https://github.com/ohsnyt/grid-boost",
-  "description": "A custom component for Home Assistant to optimize energy consumption using PV forecasts.",
   "iot_class": "cloud_polling"
 }
